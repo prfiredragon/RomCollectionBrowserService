@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="service.rom.collection.browser.robert"
+  id="service.rom.collection.browser"
   version="1.0.0"
   name="Rom Collection Browser Service"
   provider-name="carabalb, jimyx17, malte">
