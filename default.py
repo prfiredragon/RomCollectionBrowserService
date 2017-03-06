@@ -20,7 +20,7 @@ def checkStartupAction():
 	#get access to RCB
 	rcbAddon = None
 	try:
-		rcbAddon = xbmcaddon.Addon(id='script.games.rom.collection.browser.robert')
+		rcbAddon = xbmcaddon.Addon(id='script.games.rom.collection.browser')
 	except:
 		print 'RCB Service: Error while accessing "script.games.rom.collection.browser". Make sure the addon is installed.'
 		return
